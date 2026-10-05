@@ -13,3 +13,6 @@ coverage/
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+
+
+./etapas.md

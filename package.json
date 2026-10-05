@@ -1,0 +1,13 @@
+{
+  "name": "calculadora-presupuesto-viajes",
+  "version": "1.0.0",
+  "description": "Proyecto académico de Calidad y Pruebas de Software",
+  "scripts": {
+    "test": "jest",
+    "test:verbose": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0",
+    "jsdom": "^26.0.0"
+  }
+}
